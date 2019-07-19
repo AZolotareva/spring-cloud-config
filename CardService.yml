@@ -1,0 +1,8 @@
+server:
+  port: 8803
+
+management:
+  security:
+    enabled: false
+
+test: 15
