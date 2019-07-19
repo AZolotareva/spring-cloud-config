@@ -5,4 +5,4 @@ management:
   security:
     enabled: false
 
-test: 15
+test: 24
